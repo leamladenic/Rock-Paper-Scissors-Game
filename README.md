@@ -8,3 +8,6 @@ pip install -r requirements.txt
 
 ## How to use? 
 First run server.py file, than you can run multiple client.py files. 
+
+First client window is easy menu: 
+![Menu](image_2020-05-17_20-50-46.png)
